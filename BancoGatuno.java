@@ -3,7 +3,7 @@ package bancogatuno;
 public class BancoGatuno {
     private revisarCuentaGatuna cuentaGatuna1;
     private revisarCuentaGatuna cuentaGatuna2;
-    public BancoGstuno(){
+    public BancoGatuno(){
     cuentaGatuna1 = new revisarCuentaGatuna("Zeus",100);  
     cuentaGatuna2 = new revisarCuentaGatuna("Hades",200); 
     }
